@@ -1,6 +1,7 @@
 """
 desafio1_aluno.py — Desafio 1: Mapa de características para o Perceptron
 GBC073 — Inteligência Computacional (FACOM/UFU)
+Alunas: Kamilla Gonçalves Afonso e Maria Eduarda Borges Negrão
 """
 import math
 import time
